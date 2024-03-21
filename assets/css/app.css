@@ -1,0 +1,17 @@
+body {
+    background-color: #fefefe;
+}
+
+.product-img-responsive {
+    width:100%;
+    height:auto;
+}
+
+.banner-img-container {
+    min-height:400px;
+    background-color: greenyellow;
+}
+
+.min-height-300 {
+    min-height:300px;
+}
